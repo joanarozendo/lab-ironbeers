@@ -15,7 +15,8 @@ main {
 }
 
 #navbar {
-  background-color: #2081C3;
+  margin-bottom: 50px;
+  background-color: #2081c3;
   color: #F7F9F9;
 }
 
@@ -29,12 +30,19 @@ main {
 }
 
 .beer-img {
-  padding-top: 80px;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   width: 30%;
 }
 
 .home .btn {
   background-color: #2081C3;
   margin: 10px;
+}
+
+.beer-card-img {
+  width: 15%;
+}
+
+.random-beer-card-img {
+  width: 25%;
 }
