@@ -6,3 +6,35 @@ grey: rgba(145, 145, 145, 0.481);
 font-family: Arial, Helvetica, sans-serif
 */
   
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  padding: 50px;
+}
+
+#navbar {
+  background-color: #2081C3;
+  color: #F7F9F9;
+}
+
+#navbar a {
+  color: #F7F9F9;
+}
+
+.footer {
+  background-color: #0A2C42;
+  color: #F7F9F9;
+}
+
+.beer-img {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  width: 30%;
+}
+
+.home .btn {
+  background-color: #2081C3;
+  margin: 10px;
+}
